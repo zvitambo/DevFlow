@@ -1,0 +1,1 @@
+"""CI investigation workflow graph."""
